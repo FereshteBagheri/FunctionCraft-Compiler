@@ -1,0 +1,11 @@
+def compare(compare, b)
+return compare > b;
+
+end
+
+def main()
+a = 10;
+b = 5;
+compare(a, b);
+
+end
